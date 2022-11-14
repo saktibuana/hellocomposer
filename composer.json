@@ -1,0 +1,17 @@
+{
+    "name": "saktibuana/hello",
+    "description": "Just another hello world",
+    "autoload": {
+        "psr-4": {
+            "Saktibuana\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arti Hikmatullah Perbawana Sakti Buana",
+            "email": "sakti@buana.studio"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
